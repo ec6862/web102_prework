@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<a href="https://imgur.com/a/x58tQtz" title='Video Walkthrough'></a>
 
 <img src= "https://i.imgur.com/k9xx7EF.mp4" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
