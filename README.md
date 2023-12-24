@@ -33,7 +33,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app. \p
+Describe any challenges encountered while building the app. <br>
 In Challenge 3, it was difficult constructing the necessary steps needed for the 'for loop' because I was unable to piece together the requirements. Since I was still a bit new to the template literals, I was experimenting what would work in template literals. For example, in the following scenario below, how would I know that 
 "<h3> Hello World </h3>"
 would be read as an HTML element, and not just a string? After experimenting with template literals for a while, I figured out that backticks (``) work differently from parentheses (""), in that backticks allow for other HTML elements to be used, and would classify it if it detected these elements.
