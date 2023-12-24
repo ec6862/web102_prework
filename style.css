@@ -62,7 +62,6 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
-    display
 }
 
 .game-card:hover {
@@ -80,4 +79,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
