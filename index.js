@@ -203,5 +203,3 @@ firstGameContainer.appendChild(firstGameName);
 let secondGameName = document.createElement('p');
 secondGameName.innerHTML = secondGame.name;
 secondGameContainer.appendChild(secondGameName);
-
-ZooHowCEDAR
