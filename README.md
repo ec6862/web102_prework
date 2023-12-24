@@ -25,9 +25,7 @@ Here's a walkthrough of implemented features:
 The `<img>` link doesn't work for my project, so please use this link instead. I'm verry sorry for the inconvenience.
 <br> 
 <a href = "https://i.imgur.com/LGRAUs2.gif">Video Walkthrough</a>
-
 <img src= "https://i.imgur.com/LGRAUs2.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 If it's too fast, please use this link instead.
 https://imgur.com/a/x58tQtz
 <!-- Replace this with whatever GIF tool you used! -->
