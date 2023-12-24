@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/x58tQtz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://imgur.com/a/x58tQtz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
@@ -34,6 +34,17 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+In Challenge 3, it was difficult constructing the necessary steps needed for the 'for loop' because I was unable to piece together the requirements. Since I was still a bit new to the template literals, I was experimenting what would work in template literals. For example, in the following scenario below, how would I know that "<h3> Hello World </h3>" would be read as an HTML element, and not just a string? After experimenting with template literals for a while, I figured out that backticks (``) work differently from parentheses (""), in that backticks allow for other HTML elements to be used, and would classify it if it detected these elements.
+
+It was a new experience working with arrow functions, but I soon enjoyed learning to apply it in these prework challenges, as it was nice to see that it worked exactly the way I wanted to and that I was learning what was expected of me from these challenges.
+
+The final challenge that played a big part in my understanding was in Challenge 6, with the template literal and ternary operator. While the instructions seemed simple at first, I found that applying functions within template literals was a possibility that I could employ in my code. Furthermore, I discovered that in arrow functions when using reduce, that the arrow allowed me to use any function that I create, as long as I returned an output. That means that for my reduce function, I was able to write more than just a return line from the previous examples, and design a functional statement within the function that can help simplify my code!
+
+Overall, it was a very fun experience applying these new concepts that I've learned in the past few days. I'm very thankful for the simplicity of the instructions and examples, as they played a big role in my understanding and helped me grasped these concepts faster than I would've on my own. By seeing examples of the concepts and applying it to the prework challenge, it was enjoyable to know that I was able to complete the necessary steps needed for this challenge, and help me further my understanding within web development comfortably.
+
+
+
 
 ## License
 
