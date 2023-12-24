@@ -24,6 +24,8 @@ Here's a walkthrough of implemented features:
 
 <img src= "https://i.imgur.com/jkRLMg4.mp4" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+If the following link above doesn't work, please use the link below.
+https://imgur.com/a/x58tQtz
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
 <!-- Recommended tools:
